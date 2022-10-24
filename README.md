@@ -6,3 +6,5 @@ Para realizar a execução dos códigos é necessário instalar o módulo "promp
 O comando para instação é: npm install prompt-sync.
 
 Para rodar o script é necessário informar no terminal: node + o caminho da pasta + nome do arquivo.js
+
+E o mais importante, as instruções acima estão contando com que o Node já esteja instalado na máquina :).
